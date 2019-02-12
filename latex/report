@@ -1,0 +1,14 @@
+\documentclass[12 pt] {article} 
+
+
+\title{STD DEV Report - CS3560 Homework3}
+\author{Daniel Schell}
+\date{2/11/19}
+
+
+\begin{document}
+\maketitle
+
+$s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$. \\ The equation for standard deviation of a set of numbers in which $s$ is the variable for standard deviation, $N$, the number of elements in the set, $x_i$ the $i$th element of the set, and $\overline{x}$ is the average of the sum of the values in data set. Standard deviation is the measurement of the spread of the data and is used in comparing data sets that have the similar averages but different number ranges.
+
+\end{document}
